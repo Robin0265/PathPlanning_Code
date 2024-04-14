@@ -2,6 +2,8 @@
 
 ## About
 
+This REPO is based on the work of [Sampling-Based Mobile Robot Path Planning Algorithm by Dijkstra, Astar and Dynamic Programming](https://github.com/balcilar/RobotPathPlanning)
+
 ```
 Yuanshao Yang
 Email: yuanshao@umich.edu
